@@ -84,6 +84,7 @@ p{
     width: 128px;
     height: 128px;
     object-fit: cover;
+    border: var(--white) 2px solid;
 }
 .card-content{
     display: flex;

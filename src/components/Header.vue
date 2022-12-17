@@ -5,7 +5,7 @@
             <router-link class="nav-link mx-auto" active-class="active" exact to="/">Home</router-link>
         </li>
         <li class="nav-item">     
-            <router-link class="nav-link mx-auto" active-class="active" exact to="builds">Builds</router-link>
+            <router-link class="nav-link mx-auto" active-class="active" exact to="/builds">Builds</router-link>
         </li>
     </ul>
   </div>
